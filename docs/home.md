@@ -12,7 +12,11 @@
 # Looking Ahead to Next Week
 ## How to plan, conduct, and summarize usability tests?
 ### Week 5 Required Reading
-<a class="embedly-card" data-card-controls="0" data-card-align="left" href="http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/">The Art of Guerrilla Usability Testing | UX Booth</a>
+<a class="embedly-card" data-card-theme="dark" data-card-controls="0" data-card-align="left" href="http://www.uxbooth.com/articles/the-art-of-guerrilla-usability-testing/">The Art of Guerrilla Usability Testing | UX Booth</a>
 
 ### Week 5 Slides to be Discussed
 [Usability Testing](https://www.google.ca/slides/about/)
+
+### Example iFrame with Transparent Background Image
+
+<iframe src="https://paulhibbitts.net/images/ux-toolkit-8-no-numbers-transparent.png" allowtransparency="true" height="200" width="300" title="Iframe Example"></iframe>
